@@ -1,0 +1,19 @@
+{
+  "name": "rails-demoblog",
+  "authors": [
+    "H3rN4n <desouza030689@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ]
+}
